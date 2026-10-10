@@ -76,3 +76,66 @@ export default defineConfig([
 ])
 
 ```
+# 📺 KMStreamX
+
+<div align="center">
+
+  <p><b>A modern and responsive web application for streaming live TV seamlessly.</b></p>
+
+  <p>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME/KMStreamX-Frontend" target="_blank">View GitHub Repository</a> •
+    <a href="https://your-live-preview-link.com" target="_blank">Live Preview</a>
+  </p>
+
+</div>
+
+---
+
+## 🚀 About The Project
+
+**KMStreamX** is a feature-rich, high-performance web platform designed for streaming live television channels smoothly. Built with a modern tech stack, it offers users a clean, user-friendly interface with real-time features like live visitor counts and lightning-fast video playback.
+
+---
+
+## 🛠️ Built With
+
+The frontend of KMStreamX is crafted using cutting-edge web technologies:
+
+*   **React** (Vite) - A fast and efficient JavaScript library for building user interfaces.
+*   **Tailwind CSS** - A utility-first CSS framework for rapid and modern UI development.
+*   **TypeScript** - For type-safe and robust code architecture.
+*   **WebSocket** - For real-time data synchronization (e.g., live online user badges).
+*   **React Icons** - For sleek and modern vector icons.
+
+---
+
+## ✨ Key Features
+
+*   🎥 **Smooth Live TV Streaming:** Enjoy uninterrupted live television channels.
+*   🟢 **Real-time Online Visitors Badge:** Live tracking of active viewers using WebSockets.
+*   📱 **Fully Responsive Design:** Optimized for all screen sizes (mobile, tablet, and desktop).
+*   ⚡ **Lightning Fast Performance:** Powered by Vite for instant load times and hot module replacement.
+*   🎨 **Modern Dark/Glassmorphism UI:** Styled beautifully with Tailwind CSS.
+
+---
+
+## 📁 Project Structure
+
+```text
+KMStreamX-Frontend/
+├── public/              # Static assets
+├── src/
+│   ├── components/      # Reusable components (e.g., OnlineBadge.tsx, Header.tsx)
+│   ├── App.tsx          # Main application component
+│   ├── main.tsx         # Entry point
+│   └── index.css        # Tailwind styles
+├── .env                 # Environment variables
+├── package.json         # Dependencies and scripts
+└── README.md            # Project documentation
+
+
+
+[🌐 Live Demo](https://kmstreamx.netlify.app) •
+[🌐 Live Demo](https://kmstreamx.vercel.app) •
+[💻 GitHub](https://github.com/kawsar9990) •
+[🔗 LinkedIn](https://www.linkedin.com/in/kawsar-ahmed-2a466441b)
